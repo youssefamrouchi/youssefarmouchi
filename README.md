@@ -1,5 +1,5 @@
 # youssefarmouchi
-# Hi there, I'm Youssef! 👋
+# Hi there, I'm Youssef! 
 
 ### Aspiring Gameplay Programmer | C++ & Unreal Engine 5
 
@@ -83,7 +83,7 @@ These projects help me strengthen my software engineering foundations and apply 
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - **GitHub:** [youssefamrouchi](https://github.com/youssefamrouchi)
 - **Portfolio:** Coming soon
